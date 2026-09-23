@@ -45,9 +45,9 @@ El análisis integró información procedente de:
 
 Proyecto grupal desarrollado por:
 - Cristhian Reaño Ccoscco
-- [Nombre completo de Guevara]
-- [Nombre completo de Saco]
-- [Nombre completo de Pasache]
+- Cristhian Guevara De la Cruz
+- Jean Paul Pasache Guzman 
+- Sebastian Saco Alvarado
 
 ## Archivos
 
