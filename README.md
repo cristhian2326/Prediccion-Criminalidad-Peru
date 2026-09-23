@@ -7,6 +7,12 @@ El proyecto compara modelos de Machine Learning para predecir la tasa de
 criminalidad a nivel distrital utilizando información de inseguridad,
 denuncias policiales y variables socioeconómicas.
 
+## Datos
+
+Se construyó un dataset consolidado de **6,231 registros** a partir de información
+de ENAPRES, denuncias policiales y variables socioeconómicas a nivel distrital
+para el periodo 2022–2024.
+
 ## Tecnologías
 
 - Python
