@@ -49,7 +49,12 @@ Proyecto grupal desarrollado por:
 - Jean Paul Pasache Guzman 
 - Sebastian Saco Alvarado
 
-## Archivos
+## Estructura del repositorio
 
-- `G6_TA_FINAL.ipynb`: notebook con análisis y experimentación.
-- `paper/`: informe académico completo del proyecto.
+```text
+Prediccion-Criminalidad-Peru/
+├── README.md
+├── G6_TA_FINAL.ipynb
+├── .gitignore
+└── paper/
+    └── Prediccion_Criminalidad_Peru.pdf
