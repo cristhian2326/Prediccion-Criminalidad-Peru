@@ -1,2 +1,55 @@
-# Prediccion-Criminalidad-Peru
-Predicción de la tasa de criminalidad en distritos del Perú mediante Python y modelos de Machine Learning.
+# Predicción de la tasa de criminalidad en distritos del Perú
+
+Proyecto académico desarrollado en la Pontificia Universidad Católica del Perú
+para el curso de Inteligencia Artificial.
+
+El proyecto compara modelos de Machine Learning para predecir la tasa de
+criminalidad a nivel distrital utilizando información de inseguridad,
+denuncias policiales y variables socioeconómicas.
+
+## Tecnologías
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
+- Jupyter Notebook
+
+## Modelos evaluados
+
+- Regresión Lineal
+- K-Nearest Neighbors (KNN)
+- XGBoost
+
+XGBoost obtuvo el mejor desempeño entre los modelos evaluados,
+alcanzando un R² aproximado de 0.719 en el conjunto de prueba.
+
+## Fuentes de datos
+
+El análisis integró información procedente de:
+- ENAPRES - INEI
+- Denuncias policiales SIDPOL
+- Indicadores socioeconómicos a nivel distrital
+
+## Mi contribución
+
+- Búsqueda y análisis de trabajos relacionados.
+- Redacción y citación de antecedentes académicos.
+- Contribución en la fase de experimentación de los modelos.
+- Redacción del análisis de implicaciones éticas del modelo.
+
+## Autores
+
+Proyecto grupal desarrollado por:
+- Cristhian Reaño Ccoscco
+- [Nombre completo de Guevara]
+- [Nombre completo de Saco]
+- [Nombre completo de Pasache]
+
+## Archivos
+
+- `G6_TA_FINAL.ipynb`: notebook con análisis y experimentación.
+- `paper/`: informe académico completo del proyecto.
